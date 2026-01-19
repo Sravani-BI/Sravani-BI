@@ -22,7 +22,7 @@ When I'm not working with data, I enjoy reading books, doing gym workouts.
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
       
-## Data Analysis & Business Intelligence Projects
+## 💼 Data Analysis & Business Intelligence Projects
 
 - **Project A:** A comprehensive SQL and Power BI analytics project that transforms NGO socio-economic data into interactive dashboards, revealing donation trends, member participation, and program impact across regions and time.
 - **Project B:** An end-to-end data analytics project using Python, SQL, and Power BI to measure women empowerment outcomes by analyzing participation, skill development, employment impact, and funding efficiency across regions.
