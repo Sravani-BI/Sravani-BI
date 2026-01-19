@@ -26,16 +26,26 @@ When I'm not working with data, I enjoy reading books, doing gym workouts.
 
 - **Project A:** A comprehensive SQL and Power BI analytics project that transforms NGO socio-economic data into interactive dashboards, revealing donation trends, member participation, and program impact across regions and time.
 - **Project B:** An end-to-end data analytics project using Python, SQL, and Power BI to measure women empowerment outcomes by analyzing participation, skill development, employment impact, and funding efficiency across regions.
-  **Project C:** A Python-based data analysis project that uncovers sales, customer, and order fulfillment insights from an e-commerce dataset using EDA and visual analytics.
+- **Project C:** A Python-based data analysis project that uncovers sales, customer, and order fulfillment insights from an e-commerce dataset using EDA and visual analytics.
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+-  Advanced machine learning techniques in Scikit-learn.
+-  Data warehousing with Google BigQuery.
 
 ## 🛠️ Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
-
+- Python
+- Power Bi
+- Tableau
+- Advance Excel
+- SQL Server
+- TSQL
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Datawarehousing concepts
 #### Data Analysis & Visualization
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
