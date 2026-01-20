@@ -24,9 +24,10 @@ When I'm not working with data, I enjoy reading books, doing gym workouts.
       
 ## 💼 Data Analysis & Business Intelligence Projects
 
-- **Project A:** A comprehensive SQL and Power BI analytics project that transforms NGO socio-economic data into interactive dashboards, revealing donation trends, member participation, and program impact across regions and time.
-- **Project B:** An end-to-end data analytics project using Python, SQL, and Power BI to measure women empowerment outcomes by analyzing participation, skill development, employment impact, and funding efficiency across regions.
-- **Project C:** A Python-based data analysis project that uncovers sales, customer, and order fulfillment insights from an e-commerce dataset using EDA and visual analytics.
+- **Project 1:** A comprehensive SQL and Power BI analytics project that transforms NGO socio-economic data into interactive dashboards, revealing donation trends, member participation, and program impact across regions and time.
+- **Project 2:** An end-to-end data analytics project using Python, SQL, and Power BI to measure women empowerment outcomes by analyzing participation, skill development, employment impact, and funding efficiency across regions.
+- **Project 3:** A Python-based data analysis project that uncovers sales, customer, and order fulfillment insights from an e-commerce dataset using EDA and visual analytics.
+- **Project 4:** Performed comprehensive SQL analysis on Blinkit sales data by building and cleaning a relational database, developing KPIs, and applying GROUP BY, window functions, and pivot tables to uncover actionable insights.
 ## 🌱 Currently Learning 
 
 -  Advanced machine learning techniques in Scikit-learn.
